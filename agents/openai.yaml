@@ -1,0 +1,4 @@
+interface:
+  display_name: "Desktop Pet Builder"
+  short_description: "Generate and package desktop and Codex pets."
+  default_prompt: "Use $desktop-pet-builder to generate pet action images from one reference image or package my replacement images as a Codex or Windows desktop pet."
