@@ -8,15 +8,15 @@
 
 ### &#22825;&#25165;&#32874;&#26126;&#32650;
 
-![&#22825;&#25165;&#32874;&#26126;&#32650;&#22810;&#21160;&#20316;&#25928;&#26524;&#22270;](assets/demo/tiancai-congmingyang-actions.svg)
+<img src="assets/demo/tiancai-congmingyang-actions.svg" alt="Tiancai Congmingyang actions" width="720" />
 
 ### &#23567;&#24443;&#183;&#26222;&#36890;&#39118;&#26684;
 
-![&#23567;&#24443;&#26222;&#36890;&#39118;&#26684;&#22810;&#21160;&#20316;&#25928;&#26524;&#22270;](assets/demo/xiaoche-normal-actions.svg)
+<img src="assets/demo/xiaoche-normal-actions.svg" alt="Xiaoche normal actions" width="720" />
 
 ### &#31034;&#20363;&#20154;&#29289;&#26700;&#23456;
 
-![&#26700;&#23456;&#21160;&#20316;&#25928;&#26524;&#22270;](assets/demo/desktop-pet-action-sheet.svg)
+<img src="assets/demo/desktop-pet-action-sheet.svg" alt="Desktop pet actions" width="720" />
 
 ## &#21151;&#33021;&#35828;&#26126;
 
