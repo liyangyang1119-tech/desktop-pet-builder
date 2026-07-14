@@ -14,7 +14,7 @@
 
 <img src="assets/demo/xiaoche-normal-actions.svg" alt="Xiaoche normal actions" width="720" />
 
-### &#31034;&#20363;&#20154;&#29289;&#26700;&#23456;
+### &#23567;&#26172;
 
 <img src="assets/demo/desktop-pet-action-sheet.svg" alt="Desktop pet actions" width="720" />
 
